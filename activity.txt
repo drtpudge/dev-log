@@ -559,3 +559,4 @@
 2026-02-13 19:40:34 - minor status update
 2026-02-13 19:40:41 - added sprint comment
 2026-02-13 19:40:49 - added technical detail
+2026-02-13 19:40:57 - clarified dev step
