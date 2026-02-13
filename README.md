@@ -80,3 +80,4 @@
 2026-02-13 16:53:03 - clarified dev step
 2026-02-13 16:53:10 - implementation detail
 2026-02-13 16:53:18 - added sprint comment
+2026-02-13 16:53:25 - added dev note
