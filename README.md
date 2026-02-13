@@ -271,3 +271,4 @@
 2026-02-13 23:38:48 - implementation detail
 2026-02-13 23:38:55 - updated roadmap entry
 2026-02-13 23:39:03 - noted milestone
+2026-02-13 23:39:10 - added dev note
