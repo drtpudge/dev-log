@@ -61,3 +61,4 @@
 2026-02-13 16:50:44 - clarified dev step
 2026-02-13 16:50:51 - implementation detail
 2026-02-13 16:50:59 - implementation detail
+2026-02-13 16:51:06 - added technical detail
