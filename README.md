@@ -223,3 +223,4 @@
 2026-02-13 19:44:21 - clarified dev step
 2026-02-13 19:44:29 - expanded progress log
 2026-02-13 19:44:36 - clarified dev step
+2026-02-13 19:44:43 - added technical detail
