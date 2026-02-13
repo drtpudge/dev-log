@@ -136,3 +136,4 @@
 2026-02-13 16:59:51 - added technical detail
 2026-02-13 16:59:58 - noted milestone
 2026-02-13 17:00:06 - minor status update
+2026-02-13 17:00:13 - clarified dev step
