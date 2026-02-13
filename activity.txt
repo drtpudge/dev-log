@@ -497,3 +497,4 @@
 2026-02-13 16:59:07 - progress update
 2026-02-13 16:59:15 - implementation detail
 2026-02-13 16:59:22 - noted milestone
+2026-02-13 16:59:29 - clarified dev step
