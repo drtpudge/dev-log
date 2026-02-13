@@ -250,3 +250,4 @@
 2026-02-13 19:47:38 - updated roadmap entry
 2026-02-13 19:47:45 - minor status update
 2026-02-13 19:47:53 - implementation detail
+2026-02-13 19:48:00 - clarified dev step
