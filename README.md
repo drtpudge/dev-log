@@ -149,3 +149,4 @@
 2026-02-13 17:01:26 - minor status update
 2026-02-13 17:01:34 - clarified dev step
 2026-02-13 17:01:41 - minor status update
+2026-02-13 17:01:48 - added technical detail
