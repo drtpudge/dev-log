@@ -993,3 +993,4 @@
 2026-02-25 18:42:56 - added dev note
 2026-02-25 18:43:04 - added dev note
 2026-02-25 18:44:03 - added dev note
+2026-02-26 10:49:06 - implementation detail
